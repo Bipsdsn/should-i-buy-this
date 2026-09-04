@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "likely_fits",
+    "confidence": "high",
+    "why": "Multiple reviews (4★, 4★, 3★, 5★) say the dress is true to size, hugs nicely and fits as expected; no mentions of it running small or large."
+  },
+  "quality": {
+    "read": "mixed",
+    "why": "Several reviewers praise the stretch and fit, but others point out visible seams and sheerness, indicating inconsistent quality."
+  },
+  "look": {
+    "suits_occasion": "maybe",
+    "styling_tip": "Pair with heels and a statement necklace for a night out, or add a blazer for a smart‑casual look.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "Try the dress on in size M",
+    "Compare the dress's bust and waist measurements to the shopper's body measurements"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "The dress should fit you well in size M, though quality is mixed with some seam and sheerness concerns.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "True to size, hugs nicely.",
+      "rating": 4,
+      "score": 0.521,
+      "method": "minilm"
+    },
+    {
+      "text": "Perfect bodycon, just size up if you want less clingy.",
+      "rating": 4,
+      "score": 0.475,
+      "method": "minilm"
+    },
+    {
+      "text": "Colour accurate, fit accurate, only the sheerness bothered me.",
+      "rating": 3,
+      "score": 0.34,
+      "method": "minilm"
+    },
+    {
+      "text": "Loved the fit, very body-hugging as expected.",
+      "rating": 5,
+      "score": 0.334,
+      "method": "minilm"
+    },
+    {
+      "text": "Stretchy but the seams show through.",
+      "rating": 2,
+      "score": 0.302,
+      "method": "minilm"
+    },
+    {
+      "text": "Length is very short (I'm 5'7\").",
+      "rating": 3,
+      "score": 0.298,
+      "method": "minilm"
+    }
+  ]
+}

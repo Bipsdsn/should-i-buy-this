@@ -1,0 +1,8 @@
+# MVP "Should I Buy This?" — all-free stack (v3 plan). $0 only.
+streamlit>=1.38
+groq>=0.11            # free tier reasoning (Llama 3.x)
+requests>=2.31        # best-effort PDP fetch
+numpy>=1.26           # in-memory cosine retrieval (no vector DB)
+# Retrieval embeddings — installed from M2 (pulls torch; heavy). Kept here for deploy.
+sentence-transformers>=3.0
+beautifulsoup4>=4.12

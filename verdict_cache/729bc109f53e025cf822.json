@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "likely_fits",
+    "confidence": "high",
+    "why": "Multiple reviewers (2) state the item is true to size and the shopper’s last purchase in size M was perfect; a third notes you can size up for a looser fit, confirming M fits as expected."
+  },
+  "quality": {
+    "read": "mixed",
+    "why": "Positive comments on comfort and festive appeal (5★) are offset by complaints about length needing hemming and a scratchy lining (3★), indicating overall quality is variable."
+  },
+  "look": {
+    "suits_occasion": "yes",
+    "styling_tip": "Pair with simple jewelry and comfortable heels; consider hemming if you’re shorter than 5'4\" or add a soft inner layer if the lining feels scratchy.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "measure bust against the size chart",
+    "try the kurta on in‑store or order a trial size"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Fits true to size, quality shows mixed comfort and finish, but looks great for festive occasions.",
+    "buy_readiness": "ready"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "True to size, ordered M and it fit well.",
+      "rating": 4,
+      "score": 0.712,
+      "method": "minilm"
+    },
+    {
+      "text": "Fit is true to size but size up if you want it loose for dancing.",
+      "rating": 4,
+      "score": 0.462,
+      "method": "minilm"
+    },
+    {
+      "text": "Length was long, needed hemming (I'm 5'2\").",
+      "rating": 3,
+      "score": 0.306,
+      "method": "minilm"
+    },
+    {
+      "text": "Great festive buy, comfortable to wear all evening.",
+      "rating": 5,
+      "score": 0.302,
+      "method": "minilm"
+    },
+    {
+      "text": "Lining is a bit scratchy, wore an inner.",
+      "rating": 3,
+      "score": 0.224,
+      "method": "minilm"
+    },
+    {
+      "text": "Wore it to a wedding, got so many compliments!",
+      "rating": 5,
+      "score": 0.2,
+      "method": "minilm"
+    }
+  ]
+}

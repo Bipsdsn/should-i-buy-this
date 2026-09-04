@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "likely_fits",
+    "confidence": "high",
+    "why": "Multiple reviews (4★ and 3★) state the dress fits true to size and waist defined nicely; no evidence of needing a different size for a shopper who usually wears M and had a perfect previous fit."
+  },
+  "quality": {
+    "read": "insufficient_reviews",
+    "why": "Reviews focus on fit and length; none comment on fabric, stitching, or durability, so quality cannot be assessed reliably."
+  },
+  "look": {
+    "suits_occasion": "yes",
+    "styling_tip": "Pair with sandals or wedges and a thin belt to accentuate the waist for brunch or garden parties.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "Exact bust and waist measurements of a shopper who bought size M and their fit feedback",
+    "Additional reviews mentioning fabric feel, stitching quality, or durability"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Fit appears true to size for M, but quality details are missing; the dress is suitable for casual daytime occasions.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Fit is true to size, waist defined nicely.",
+      "rating": 4,
+      "score": 0.481,
+      "method": "minilm"
+    },
+    {
+      "text": "Length is fine if you're petite.",
+      "rating": 3,
+      "score": 0.388,
+      "method": "minilm"
+    },
+    {
+      "text": "Ordered S, fit perfectly, but the shade is different.",
+      "rating": 3,
+      "score": 0.27,
+      "method": "minilm"
+    },
+    {
+      "text": "Shorter than 'midi' — hits above the knee on me (5'5\").",
+      "rating": 2,
+      "score": 0.233,
+      "method": "minilm"
+    },
+    {
+      "text": "Comfortable and good for brunch outings.",
+      "rating": 4,
+      "score": 0.214,
+      "method": "minilm"
+    },
+    {
+      "text": "Sleeves are a little tight on the arms.",
+      "rating": 3,
+      "score": 0.175,
+      "method": "minilm"
+    }
+  ]
+}

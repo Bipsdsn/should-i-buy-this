@@ -1,0 +1,40 @@
+{
+  "fit": {
+    "call": "likely_fits",
+    "confidence": "low",
+    "why": "Shopper normally wears M and says last purchase fit perfect; both available reviews state the tee fits well, but only two reviews exist."
+  },
+  "quality": {
+    "read": "insufficient_reviews",
+    "why": "Only two reviews mention quality (decent, dries fast); not enough data to judge overall quality."
+  },
+  "look": {
+    "suits_occasion": "yes",
+    "styling_tip": "Pair with shorts or joggers for gym or casual sport looks.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "more customer reviews focusing on durability",
+    "feedback on fabric stretch after multiple washes"
+  ],
+  "overall": {
+    "confidence": "low",
+    "one_line": "Fit likely fine, but quality evidence is insufficient; check more reviews before buying.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Fits well, good for workouts.",
+      "rating": 4,
+      "score": 0.453,
+      "method": "minilm"
+    },
+    {
+      "text": "Decent quality, dries fast.",
+      "rating": 4,
+      "score": 0.235,
+      "method": "minilm"
+    }
+  ]
+}

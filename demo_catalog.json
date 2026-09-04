@@ -1,0 +1,667 @@
+[
+  {
+    "id": "demo-kurta-anouk-01",
+    "title": "Yoke Design Straight Kurta",
+    "brand": "Anouk",
+    "category": "kurta (women)",
+    "size_chart": {
+      "S": {
+        "bust_in": 36
+      },
+      "M": {
+        "bust_in": 38
+      },
+      "L": {
+        "bust_in": 40
+      },
+      "XL": {
+        "bust_in": 42
+      },
+      "XXL": {
+        "bust_in": 44
+      }
+    },
+    "details": "Viscose rayon straight kurta, calf length, three-quarter sleeves, round neck.",
+    "scenario": "runs_small",
+    "reviews": [
+      {
+        "text": "Runs small. I usually wear M and the M was tight across the bust — size up.",
+        "rating": 3
+      },
+      {
+        "text": "Ordered my usual L, fits like an M. Returning for XL.",
+        "rating": 2
+      },
+      {
+        "text": "Beautiful print but the fit is snug at the shoulders and chest.",
+        "rating": 3
+      },
+      {
+        "text": "Size up! I'm normally S, the S didn't close comfortably.",
+        "rating": 3
+      },
+      {
+        "text": "Fabric is soft and light, great for daily office wear.",
+        "rating": 5
+      },
+      {
+        "text": "Length is perfect for me (5'4\"), hits mid-calf.",
+        "rating": 4
+      },
+      {
+        "text": "Colour is slightly lighter than the photo but still pretty.",
+        "rating": 4
+      },
+      {
+        "text": "Good quality rayon, didn't fade after two washes.",
+        "rating": 5
+      },
+      {
+        "text": "The M is tighter than other Anouk kurtas I own, they've changed the fit.",
+        "rating": 2
+      },
+      {
+        "text": "Sleeves are a bit narrow if you have fuller arms.",
+        "rating": 3
+      },
+      {
+        "text": "Value for money, but definitely order one size bigger.",
+        "rating": 4
+      },
+      {
+        "text": "Perfect fit for me — I sized up from M to L as reviews suggested.",
+        "rating": 5
+      },
+      {
+        "text": "Bust area runs small, rest is fine.",
+        "rating": 3
+      },
+      {
+        "text": "Loved it, comfortable and true to the pictures except sizing.",
+        "rating": 4
+      },
+      {
+        "text": "Stitching came slightly loose at the hem within a week.",
+        "rating": 2
+      },
+      {
+        "text": "I have broad shoulders and the L was still tight up top.",
+        "rating": 2
+      },
+      {
+        "text": "Lightweight, doesn't cling, good for summer.",
+        "rating": 5
+      }
+    ],
+    "rating": 3.5,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-jeans-roadster-02",
+    "title": "Slim Fit Mid-Rise Clean Look Jeans",
+    "brand": "Roadster",
+    "category": "jeans (men)",
+    "size_chart": {
+      "30": {
+        "waist_in": 30
+      },
+      "32": {
+        "waist_in": 32
+      },
+      "34": {
+        "waist_in": 34
+      },
+      "36": {
+        "waist_in": 36
+      },
+      "38": {
+        "waist_in": 38
+      }
+    },
+    "details": "Slim fit, mid-rise, stretchable cotton, clean look, 5-pocket.",
+    "scenario": "conflicting_fit",
+    "reviews": [
+      {
+        "text": "True to size at the waist, but tight around the thighs — slim fit is really slim.",
+        "rating": 3
+      },
+      {
+        "text": "Perfect fit, my usual 32 fit exactly right.",
+        "rating": 5
+      },
+      {
+        "text": "Waist was loose, thighs were snug. Odd fit for athletic legs.",
+        "rating": 2
+      },
+      {
+        "text": "Great stretch, comfortable all day.",
+        "rating": 5
+      },
+      {
+        "text": "Runs a bit large at waist, had to use a belt.",
+        "rating": 3
+      },
+      {
+        "text": "Fabric quality is decent for the price.",
+        "rating": 4
+      },
+      {
+        "text": "Length was long for me (5'6\"), needed altering.",
+        "rating": 3
+      },
+      {
+        "text": "Colour fades slightly after a few washes.",
+        "rating": 3
+      },
+      {
+        "text": "If you have muscular thighs, size up.",
+        "rating": 2
+      },
+      {
+        "text": "Exactly like the picture, happy with it.",
+        "rating": 5
+      },
+      {
+        "text": "Not enough stretch as claimed, felt stiff initially.",
+        "rating": 3
+      },
+      {
+        "text": "Good everyday jeans, waist true to size.",
+        "rating": 4
+      },
+      {
+        "text": "Thigh area too tight, otherwise fine.",
+        "rating": 2
+      },
+      {
+        "text": "Comfortable, holds shape well.",
+        "rating": 4
+      },
+      {
+        "text": "Second pair I've bought, consistent fit for me.",
+        "rating": 5
+      }
+    ],
+    "rating": 3.6,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-shirt-herenow-03",
+    "title": "Oversized Cotton Casual Shirt",
+    "brand": "HERE&NOW",
+    "category": "shirt (men)",
+    "size_chart": {
+      "S": {
+        "chest_in": 40
+      },
+      "M": {
+        "chest_in": 42
+      },
+      "L": {
+        "chest_in": 44
+      },
+      "XL": {
+        "chest_in": 46
+      }
+    },
+    "details": "Oversized fit, pure cotton, spread collar, drop shoulder, half sleeves.",
+    "scenario": "look_uncertainty",
+    "reviews": [
+      {
+        "text": "Oversized is genuinely oversized — if you want a normal fit, size down.",
+        "rating": 3
+      },
+      {
+        "text": "Looks great if you're going for the baggy streetwear look.",
+        "rating": 5
+      },
+      {
+        "text": "Not sure it suited my body type, I'm slim and it looked like a tent.",
+        "rating": 2
+      },
+      {
+        "text": "Fabric is thick and premium feeling.",
+        "rating": 5
+      },
+      {
+        "text": "Perfect drop-shoulder look, exactly like the model.",
+        "rating": 5
+      },
+      {
+        "text": "Too boxy for me, returned it.",
+        "rating": 2
+      },
+      {
+        "text": "Great for layering, pairs well with slim jeans.",
+        "rating": 4
+      },
+      {
+        "text": "Colour is accurate to the photo.",
+        "rating": 4
+      },
+      {
+        "text": "If you're on the shorter side, oversized can overwhelm your frame.",
+        "rating": 3
+      },
+      {
+        "text": "Comfortable and breathable cotton.",
+        "rating": 5
+      },
+      {
+        "text": "Looks stylish with the sleeves rolled.",
+        "rating": 4
+      },
+      {
+        "text": "Quality is good but the fit is a personal choice — try before deciding.",
+        "rating": 3
+      },
+      {
+        "text": "I'm 6ft and it looked intentional and cool.",
+        "rating": 5
+      },
+      {
+        "text": "Wasn't sure how to style it, ended up not wearing it much.",
+        "rating": 2
+      }
+    ],
+    "rating": 3.8,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-anarkali-libas-04",
+    "title": "Floral Print Anarkali Kurta with Dupatta",
+    "brand": "Libas",
+    "category": "ethnic set (women)",
+    "size_chart": {
+      "S": {
+        "bust_in": 36
+      },
+      "M": {
+        "bust_in": 38
+      },
+      "L": {
+        "bust_in": 40
+      },
+      "XL": {
+        "bust_in": 42
+      }
+    },
+    "details": "Floor-length Anarkali, printed, with dupatta, for festive/occasion wear.",
+    "scenario": "occasion_quality",
+    "reviews": [
+      {
+        "text": "Wore it to a wedding, got so many compliments!",
+        "rating": 5
+      },
+      {
+        "text": "For the price the fabric feels a bit cheap up close.",
+        "rating": 3
+      },
+      {
+        "text": "The dupatta material is thinner than expected.",
+        "rating": 2
+      },
+      {
+        "text": "Flare is beautiful, twirls nicely.",
+        "rating": 5
+      },
+      {
+        "text": "Colour in real life is a shade duller than the photo.",
+        "rating": 3
+      },
+      {
+        "text": "Perfect for festive occasions, looks rich in photos.",
+        "rating": 4
+      },
+      {
+        "text": "Stitching around the yoke was slightly uneven.",
+        "rating": 2
+      },
+      {
+        "text": "True to size, ordered M and it fit well.",
+        "rating": 4
+      },
+      {
+        "text": "Length was long, needed hemming (I'm 5'2\").",
+        "rating": 3
+      },
+      {
+        "text": "Great festive buy, comfortable to wear all evening.",
+        "rating": 5
+      },
+      {
+        "text": "Not sure it's worth it for a one-time wedding wear, quality is average.",
+        "rating": 3
+      },
+      {
+        "text": "Loved the print, elegant for pujas and functions.",
+        "rating": 5
+      },
+      {
+        "text": "Lining is a bit scratchy, wore an inner.",
+        "rating": 3
+      },
+      {
+        "text": "Looks more expensive than it is — good for occasions.",
+        "rating": 4
+      },
+      {
+        "text": "Dupatta colour didn't exactly match the kurta.",
+        "rating": 2
+      },
+      {
+        "text": "Fit is true to size but size up if you want it loose for dancing.",
+        "rating": 4
+      }
+    ],
+    "rating": 3.6,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-dress-sangria-05",
+    "title": "Floral Print Fit & Flare Midi Dress",
+    "brand": "SANGRIA",
+    "category": "dress (women)",
+    "size_chart": {
+      "XS": {
+        "bust_in": 32,
+        "waist_in": 26
+      },
+      "S": {
+        "bust_in": 34,
+        "waist_in": 28
+      },
+      "M": {
+        "bust_in": 36,
+        "waist_in": 30
+      },
+      "L": {
+        "bust_in": 38,
+        "waist_in": 32
+      }
+    },
+    "details": "Fit-and-flare midi, floral print, short sleeves, concealed zip.",
+    "scenario": "image_vs_reality",
+    "reviews": [
+      {
+        "text": "Colour is noticeably lighter/washed out compared to the website photo.",
+        "rating": 2
+      },
+      {
+        "text": "Shorter than 'midi' — hits above the knee on me (5'5\").",
+        "rating": 2
+      },
+      {
+        "text": "Print is pretty but the background is more beige than white in reality.",
+        "rating": 3
+      },
+      {
+        "text": "Fit is true to size, waist defined nicely.",
+        "rating": 4
+      },
+      {
+        "text": "Fabric is a bit see-through in bright light, wore a slip.",
+        "rating": 2
+      },
+      {
+        "text": "Loved it, flattering flare.",
+        "rating": 5
+      },
+      {
+        "text": "The real product looks cheaper than the styled photo.",
+        "rating": 2
+      },
+      {
+        "text": "Comfortable and good for brunch outings.",
+        "rating": 4
+      },
+      {
+        "text": "Length is fine if you're petite.",
+        "rating": 3
+      },
+      {
+        "text": "Zip quality feels flimsy.",
+        "rating": 2
+      },
+      {
+        "text": "Colour accurate on my screen actually, happy.",
+        "rating": 4
+      },
+      {
+        "text": "Sleeves are a little tight on the arms.",
+        "rating": 3
+      },
+      {
+        "text": "Nice for the price if you manage expectations on colour.",
+        "rating": 3
+      },
+      {
+        "text": "Ordered S, fit perfectly, but the shade is different.",
+        "rating": 3
+      }
+    ],
+    "rating": 2.9,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-shoes-puma-06",
+    "title": "Running Shoes",
+    "brand": "Puma",
+    "category": "footwear (unisex)",
+    "size_chart": {
+      "UK6": {
+        "foot_cm": 24.5
+      },
+      "UK7": {
+        "foot_cm": 25.5
+      },
+      "UK8": {
+        "foot_cm": 26.5
+      },
+      "UK9": {
+        "foot_cm": 27.5
+      },
+      "UK10": {
+        "foot_cm": 28.5
+      }
+    },
+    "details": "Lightweight running shoes, mesh upper, cushioned sole.",
+    "scenario": "runs_small",
+    "reviews": [
+      {
+        "text": "Run small — order half a size up. My UK8 felt like a 7.5.",
+        "rating": 3
+      },
+      {
+        "text": "Tight in the toe box, went up a size and it was perfect.",
+        "rating": 3
+      },
+      {
+        "text": "Very comfortable once I sized up.",
+        "rating": 5
+      },
+      {
+        "text": "True to size for me, no issues.",
+        "rating": 4
+      },
+      {
+        "text": "Narrow fit, not great for wide feet.",
+        "rating": 2
+      },
+      {
+        "text": "Great cushioning for daily runs.",
+        "rating": 5
+      },
+      {
+        "text": "Ordered my usual size and had to return — too tight.",
+        "rating": 2
+      },
+      {
+        "text": "Lightweight and breathable.",
+        "rating": 5
+      },
+      {
+        "text": "Looks exactly like the pictures.",
+        "rating": 4
+      },
+      {
+        "text": "Size up if you wear thick socks.",
+        "rating": 3
+      },
+      {
+        "text": "Sole started wearing after a month of heavy use.",
+        "rating": 3
+      },
+      {
+        "text": "Comfortable, but definitely runs small.",
+        "rating": 4
+      },
+      {
+        "text": "Perfect for gym and walking.",
+        "rating": 5
+      },
+      {
+        "text": "Half size up is the way to go.",
+        "rating": 4
+      }
+    ],
+    "rating": 3.7,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-bodycon-mastharbour-07",
+    "title": "Ribbed Bodycon Mini Dress",
+    "brand": "Mast & Harbour",
+    "category": "dress (women)",
+    "size_chart": {
+      "XS": {
+        "bust_in": 31,
+        "waist_in": 24
+      },
+      "S": {
+        "bust_in": 33,
+        "waist_in": 26
+      },
+      "M": {
+        "bust_in": 35,
+        "waist_in": 28
+      },
+      "L": {
+        "bust_in": 37,
+        "waist_in": 30
+      }
+    },
+    "details": "Ribbed stretch bodycon, mini length, sleeveless.",
+    "scenario": "quality_sheer",
+    "reviews": [
+      {
+        "text": "The fabric is thin and slightly see-through, be careful with innerwear.",
+        "rating": 2
+      },
+      {
+        "text": "Clings to every curve — flattering but not forgiving.",
+        "rating": 3
+      },
+      {
+        "text": "Ribbed material is stretchy and comfortable.",
+        "rating": 4
+      },
+      {
+        "text": "Sheer in bright light, disappointed for the price.",
+        "rating": 2
+      },
+      {
+        "text": "True to size, hugs nicely.",
+        "rating": 4
+      },
+      {
+        "text": "Shows every line, needs seamless innerwear.",
+        "rating": 3
+      },
+      {
+        "text": "Loved the fit, very body-hugging as expected.",
+        "rating": 5
+      },
+      {
+        "text": "Material feels cheap and thin.",
+        "rating": 2
+      },
+      {
+        "text": "Great for a night out if you're confident.",
+        "rating": 5
+      },
+      {
+        "text": "Length is very short (I'm 5'7\").",
+        "rating": 3
+      },
+      {
+        "text": "Stretchy but the seams show through.",
+        "rating": 2
+      },
+      {
+        "text": "Perfect bodycon, just size up if you want less clingy.",
+        "rating": 4
+      },
+      {
+        "text": "Not sure it suited my body shape, felt too exposing.",
+        "rating": 2
+      },
+      {
+        "text": "Colour accurate, fit accurate, only the sheerness bothered me.",
+        "rating": 3
+      }
+    ],
+    "rating": 3.0,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  },
+  {
+    "id": "demo-tee-hrx-08",
+    "title": "Rapid-Dry Training T-Shirt",
+    "brand": "HRX",
+    "category": "activewear (men)",
+    "size_chart": {
+      "S": {
+        "chest_in": 38
+      },
+      "M": {
+        "chest_in": 40
+      },
+      "L": {
+        "chest_in": 42
+      },
+      "XL": {
+        "chest_in": 44
+      }
+    },
+    "details": "Rapid-dry training tee, slim athletic fit, moisture-wicking.",
+    "scenario": "sparse_reviews",
+    "reviews": [
+      {
+        "text": "Fits well, good for workouts.",
+        "rating": 4
+      },
+      {
+        "text": "Decent quality, dries fast.",
+        "rating": 4
+      }
+    ],
+    "rating": 4.0,
+    "image_url": "",
+    "illustrative_photos": [],
+    "source": "demo"
+  }
+]

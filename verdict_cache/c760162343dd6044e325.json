@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "size_up",
+    "confidence": "medium",
+    "why": "4 of the 6 relevant reviews say the shoes run small and recommend going up a size, while only one says true to size, indicating a tendency to need a larger size."
+  },
+  "quality": {
+    "read": "mixed",
+    "why": "Star ratings range from 2 to 5 and comments focus on fit rather than durability, showing no clear consensus on overall quality."
+  },
+  "look": {
+    "suits_occasion": "yes",
+    "styling_tip": "Pair with leggings, shorts or joggers for running or casual sporty outfits.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "measure foot length in cm and compare to the size chart",
+    "try the shoes on in a store or use a home try‑on service"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Most reviewers say the shoes run small, so size up; quality feedback is mixed.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Ordered my usual size and had to return — too tight.",
+      "rating": 2,
+      "score": 0.573,
+      "method": "minilm"
+    },
+    {
+      "text": "Comfortable, but definitely runs small.",
+      "rating": 4,
+      "score": 0.515,
+      "method": "minilm"
+    },
+    {
+      "text": "Tight in the toe box, went up a size and it was perfect.",
+      "rating": 3,
+      "score": 0.514,
+      "method": "minilm"
+    },
+    {
+      "text": "Very comfortable once I sized up.",
+      "rating": 5,
+      "score": 0.483,
+      "method": "minilm"
+    },
+    {
+      "text": "True to size for me, no issues.",
+      "rating": 4,
+      "score": 0.479,
+      "method": "minilm"
+    },
+    {
+      "text": "Narrow fit, not great for wide feet.",
+      "rating": 2,
+      "score": 0.423,
+      "method": "minilm"
+    }
+  ]
+}

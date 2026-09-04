@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "likely_fits",
+    "confidence": "medium",
+    "why": "4 of 6 relevant reviews say the waist is true to size or perfect, matching the shopper's usual 32/size M and their last purchase; 2 reviews note minor issues (waist a bit large, thighs tight) but not enough to overturn the overall trend."
+  },
+  "quality": {
+    "read": "reassuring",
+    "why": "Reviews highlight good stretch, comfort and consistent fit with no complaints about material durability or construction."
+  },
+  "look": {
+    "suits_occasion": "maybe",
+    "styling_tip": "Pair with a fitted shirt for smart‑casual or a tee for everyday wear to make the clean‑look jeans versatile.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "in‑store try‑on of size 32",
+    "measure thigh circumference against product specs"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Jeans generally fit true to size with a slim cut, quality is good, and they work for casual or smart‑casual outfits.",
+    "buy_readiness": "ready"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Perfect fit, my usual 32 fit exactly right.",
+      "rating": 5,
+      "score": 0.505,
+      "method": "minilm"
+    },
+    {
+      "text": "Good everyday jeans, waist true to size.",
+      "rating": 4,
+      "score": 0.488,
+      "method": "minilm"
+    },
+    {
+      "text": "Runs a bit large at waist, had to use a belt.",
+      "rating": 3,
+      "score": 0.416,
+      "method": "minilm"
+    },
+    {
+      "text": "Second pair I've bought, consistent fit for me.",
+      "rating": 5,
+      "score": 0.396,
+      "method": "minilm"
+    },
+    {
+      "text": "Great stretch, comfortable all day.",
+      "rating": 5,
+      "score": 0.373,
+      "method": "minilm"
+    },
+    {
+      "text": "True to size at the waist, but tight around the thighs — slim fit is really slim.",
+      "rating": 3,
+      "score": 0.348,
+      "method": "minilm"
+    }
+  ]
+}

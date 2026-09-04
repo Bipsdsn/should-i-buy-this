@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "size_up",
+    "confidence": "medium",
+    "why": "5 of 6 relevant reviews say the kurta runs small and advise sizing up; shopper’s last purchase fit perfectly but they did not size up, so the majority evidence drives the recommendation."
+  },
+  "quality": {
+    "read": "mixed",
+    "why": "Star ratings vary from 2 to 5 and comments focus on fit rather than material durability or finish, giving no clear consensus on quality."
+  },
+  "look": {
+    "suits_occasion": "unclear",
+    "styling_tip": "Pair with leggings or straight pants for a casual or semi‑formal look.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "Try the kurta in size L",
+    "Provide precise bust measurement and compare to the size chart"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Reviews suggest the kurta tends to run small, so size up from your usual M, though your last purchase fit perfectly; quality signals are mixed.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Perfect fit for me — I sized up from M to L as reviews suggested.",
+      "rating": 5,
+      "score": 0.656,
+      "method": "minilm"
+    },
+    {
+      "text": "Runs small. I usually wear M and the M was tight across the bust — size up.",
+      "rating": 3,
+      "score": 0.632,
+      "method": "minilm"
+    },
+    {
+      "text": "Ordered my usual L, fits like an M. Returning for XL.",
+      "rating": 2,
+      "score": 0.627,
+      "method": "minilm"
+    },
+    {
+      "text": "The M is tighter than other Anouk kurtas I own, they've changed the fit.",
+      "rating": 2,
+      "score": 0.498,
+      "method": "minilm"
+    },
+    {
+      "text": "Size up! I'm normally S, the S didn't close comfortably.",
+      "rating": 3,
+      "score": 0.441,
+      "method": "minilm"
+    },
+    {
+      "text": "Bust area runs small, rest is fine.",
+      "rating": 3,
+      "score": 0.373,
+      "method": "minilm"
+    }
+  ]
+}

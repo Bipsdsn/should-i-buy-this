@@ -1,0 +1,64 @@
+{
+  "fit": {
+    "call": "size_down",
+    "confidence": "medium",
+    "why": "Reviews note the shirt is genuinely oversized; several suggest sizing down for a normal fit, especially for slimmer or shorter frames. Your usual M would likely feel roomy, so a smaller size is advisable."
+  },
+  "quality": {
+    "read": "reassuring",
+    "why": "Two reviewers highlight the soft, breathable cotton and overall good quality, with no negative comments about durability."
+  },
+  "look": {
+    "suits_occasion": "maybe",
+    "styling_tip": "Pair with slim‑fit jeans and minimal accessories to balance the oversized silhouette.",
+    "evidence_clip": null
+  },
+  "what_would_settle_it": [
+    "Try on a size S",
+    "Check the garment's exact measurements (chest, length)"
+  ],
+  "overall": {
+    "confidence": "medium",
+    "one_line": "Oversized shirt fits best when sized down, quality is solid, and it suits casual occasions if styled appropriately.",
+    "buy_readiness": "check_first"
+  },
+  "_engine": "groq",
+  "_reviews_used": [
+    {
+      "text": "Oversized is genuinely oversized — if you want a normal fit, size down.",
+      "rating": 3,
+      "score": 0.458,
+      "method": "minilm"
+    },
+    {
+      "text": "Quality is good but the fit is a personal choice — try before deciding.",
+      "rating": 3,
+      "score": 0.334,
+      "method": "minilm"
+    },
+    {
+      "text": "Not sure it suited my body type, I'm slim and it looked like a tent.",
+      "rating": 2,
+      "score": 0.276,
+      "method": "minilm"
+    },
+    {
+      "text": "If you're on the shorter side, oversized can overwhelm your frame.",
+      "rating": 3,
+      "score": 0.273,
+      "method": "minilm"
+    },
+    {
+      "text": "Comfortable and breathable cotton.",
+      "rating": 5,
+      "score": 0.259,
+      "method": "minilm"
+    },
+    {
+      "text": "Wasn't sure how to style it, ended up not wearing it much.",
+      "rating": 2,
+      "score": 0.255,
+      "method": "minilm"
+    }
+  ]
+}
