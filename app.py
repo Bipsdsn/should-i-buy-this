@@ -27,11 +27,11 @@ CSS = """
 .block-container{padding-top:1.2rem; max-width:1300px;}
 /* NOTE: Streamlit's ⋮ menu + footer left visible on purpose — keeps built-in
    "Record screen" (screen + mic/voice) available for demo recording. */
-.sib-header{display:flex; align-items:center; gap:12px; padding:6px 0 16px; border-bottom:1px solid #eee; margin-bottom:18px;}
+.sib-header{display:flex; align-items:center; gap:12px; padding:14px 20px; background:#1F4E79; border-radius:12px; margin-bottom:18px;}
 .sib-logo{width:34px;height:34px;background:var(--m-pink);border-radius:8px;color:#fff;font-weight:900;
   display:flex;align-items:center;justify-content:center;font-size:18px;}
-.sib-logo-txt{font-weight:800;font-size:20px;color:var(--m-charcoal);}
-.sib-sub{margin-left:auto;font-size:13px;font-weight:600;color:var(--m-grey);}
+.sib-logo-txt{font-weight:800;font-size:20px;color:#ffffff;}
+.sib-sub{margin-left:auto;font-size:14px;font-weight:600;color:#dbe6f2;}
 /* verdict hero */
 .verdict-header{background:#fff;border-radius:var(--radius-lg);padding:34px;box-shadow:var(--shadow-soft);text-align:center;margin-bottom:24px;}
 .verdict-badge{display:inline-block;padding:6px 16px;border-radius:50px;font-size:12px;font-weight:800;
